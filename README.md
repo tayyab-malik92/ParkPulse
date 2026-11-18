@@ -1,4 +1,4 @@
-# FAST-NUCES Smart Parking Availability System 🚗💨
+# ParkPulse
 
 An AI-driven, full-stack real-time parking monitoring and allocation system developed for the **FAST-NUCES Lahore Campus** as part of **KIROTHON: The Finale AI Hackathon by AWS Pakistan**.
 
@@ -12,7 +12,7 @@ Finding a parking spot during peak university hours can be chaotic. This project
 Here is the clean directory tree of the repository showcasing the decoupled full-stack architecture:
 
 ```text
-FAST-NUCES-Smart-Parking-System-AI-Hackathon/
+ParkPulse/
 ├── .kiro                      # Kiro environment workspace settings
 ├── .kiro-steering             # Project steering and build directions
 ├── README.md                  # Main project documentation
